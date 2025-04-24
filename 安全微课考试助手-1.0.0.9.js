@@ -19,11 +19,11 @@
     'use strict';
 
     // --- 配置区域 ---
-    const LLM_API_ENDPOINT = 'https://ark.cn-beijing.volces.com/api/v3/chat/completions'; // <--- API 地址 (已更新)
-    const API_KEY = '5bd79fca-5f85-4d43-b6b4-dc1a6d3a1506'; // <--- API Key (已更新)
-    const MODEL_NAME = "ep-20250326161851-6xhvv"; // <--- 模型名称 (已更新)
-    const TEMPERATURE = 0.2; // 参数
-    const MAX_TOKENS = 2048; // 参数
+    const LLM_API_ENDPOINT = ''; // <--- API 地址
+    const API_KEY = ''; // <--- API Key 
+    const MODEL_NAME = ""; // <--- 模型名称 
+    const TEMPERATURE = 0.2; // 温度
+    const MAX_TOKENS = 2048; // 单次最大输出TOKEN
     const TOP_P = 1; // 参数
     const FLOATING_BUTTON_SIZE = 50; // 悬浮按钮大小 (像素)
     const FLOATING_BUTTON_ICON = '📝'; // 更新图标为更符合考试助手的感觉

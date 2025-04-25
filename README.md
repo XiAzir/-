@@ -6,3 +6,5 @@
 
 使用兼容OPENAI API的LLM！
 自行填写endpoint，APIKEY，MODELNAME。
+
+理论上兼容所有的以文字形式给出题目的在线考试，自己改改
